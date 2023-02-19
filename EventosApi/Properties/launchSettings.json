@@ -16,9 +16,7 @@
       "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7254;http://localhost:5011",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "DATABASE_CONFIG": "server=database-1.cgshvelwenoq.us-east-1.rds.amazonaws.com;userid=aulaAPI;password=aulaAPI956;database=profAmanda;",
-        "SECRET_KEY": "he0ErCNloe4J7Id0Ry2SEDg09lKkZkfsRiGsdX_vgEg"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "IIS Express": {
