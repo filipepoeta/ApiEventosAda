@@ -1,7 +1,0 @@
-"DATABASE_CONFIG": "server=database-1.cgshvelwenoq.us-east-1.rds.amazonaws.com;userid=aulaAPI;password=aulaAPI956;database=profAmanda;"
-
-
-ctrl + K + D
-
-
-Singleton na injeção do banco
